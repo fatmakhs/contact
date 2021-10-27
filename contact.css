@@ -1,0 +1,500 @@
+*{
+  margin: 0;
+  padding:0;
+}
+header
+{
+  font-family: Raleway;
+  padding: 7em 5em;
+  background-color: whitesmoke;
+  height: 150px;
+
+}
+main {
+
+  margin-left: 0px;
+  margin-right: 0px;
+  
+}
+
+#logo a {
+  float: left;
+  padding: 12px 40px;
+  font: 16px 'Lato';
+  font-weight: 900;
+  color: white;
+
+}
+img
+{
+  margin-top: 40px;
+
+
+}
+div.navba {
+  margin-top: -130px;
+  margin-left:-79px;
+  background-color: whitesmoke;
+  width: 2000px;
+  height: 100px;
+  position: fixed;
+  z-index: 1000;
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 18px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: white;
+}
+img{
+    width: 120px;
+    height: 50x;
+    margin-left: 100px;
+}
+li.menu
+{
+   padding-top: 42px;
+   padding-left: 20px;
+
+}
+div.buttums
+{
+  padding-top: 50px;
+  font-size: 20px;
+  padding-left: 1150px;
+
+}
+button{
+    font-size: 15px;
+    height: 50px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15%;
+    font-weight: bold;
+}
+li.esp{
+   padding-left: 10px;
+  
+   
+   
+}
+button.coleur{
+   background-color: black;
+   color: white;
+   margin-top: -140px;
+}
+button.coleur:hover
+{
+   color: 5FB6D9;
+}
+button.button2:hover
+{
+   background-color: white;
+
+
+}
+button.button2
+{
+margin-top: -140px;
+
+
+}
+h1.titre1
+{
+  font-family: Sansation;
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 45px;
+  letter-spacing: 0,95em;
+  text-align: center;   
+  
+}
+div.titres
+{
+   margin-top: -170px;
+  
+
+}
+p.citation1{
+  font-family: Roboto;
+  font-size: 14px;
+  font-style: italic;
+  font-weight: 700;
+  line-height: 14px;
+  letter-spacing: 0,5em;
+  text-align: center;
+  padding-top: 15px;
+  
+}
+section.contenu
+{
+   margin-top:  100px;
+
+   padding-left: 90px;
+   padding-top: 70px;
+   display: flex;
+    flex-wrap: wrap;
+
+
+}
+
+.flex1
+{
+    margin:20px;
+    flex:1 1 200px;
+
+}
+h1.titre2
+{
+  font-family: Sansation;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0em;
+ 
+  color: #5FB6D9;  
+
+}
+p.citation2
+{
+   padding-top: 10px;
+  font-family: Rufina;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  
+
+}
+h1.titre3{
+  font-family: Sansation;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+  letter-spacing: 0em;
+   color: #5FB6D9; 
+  
+}
+p.citation3
+{
+  font-family: Rufina;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-left: 3px;
+  padding-top: 10px;
+}
+input.forms
+{
+ 
+position: absolute;
+width: 500px;
+height: 38px;
+
+background: #FFFFFF;
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 5px;
+margin-top: 40px;
+padding-left: 5px;
+
+}
+input.forms1
+{
+position: absolute;
+width: 500px;
+height: 38px;
+
+background: #FFFFFF;
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 5px;
+margin-top: 100px;
+padding-left: 5px;
+
+
+}
+input.forms2
+{
+ 
+position: absolute;
+width: 500px;
+height: 38px;
+
+background: #FFFFFF;
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 5px;
+margin-top: 160px;
+padding-left: 5px;
+}
+input.forms3
+{
+position: absolute;
+width: 500px;
+height: 38px;
+
+background: #FFFFFF;
+border: 1px solid #F2F2F2;
+box-sizing: border-box;
+border-radius: 5px;
+margin-top: 220px;
+padding-left: 5px;
+
+}
+input.forms4
+{
+ 
+position: absolute;
+width: 500;
+height: 113px;
+
+background: #FFFFFF;
+border: 1px solid #CECCCC;
+box-sizing: border-box;
+border-radius: 5px;
+margin-top: 280px;
+padding-left: 5px;
+padding-bottom: 70px;
+}
+button.button3
+{
+position: absolute;
+width: 120px;
+height: 40px;
+
+background: whitesmoke;
+border-radius: 5px;
+margin-top: 430px;
+margin-left: 380px;
+
+}
+button.button3:hover
+{
+ background: #5FB6D9;;
+
+}
+.fab fa-facebook-f
+{
+ background-color: whitesmoke;
+
+
+}
+div.titre5
+{
+font-family: Rufina;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+margiN-top: 50px;
+
+
+}
+
+.icon i
+{
+margin-top: 40px;
+font-size: 30px;
+
+}
+p.fac
+{
+font-family: Sahitya;
+font-size: 16px;
+font-style:italic;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 25px;
+margin-top: -40px;
+padding-left: 10px;
+}
+P.twitter
+{
+font-family: Sahitya;
+font-size: 14px;
+font-style: italic;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 25px;
+margin-top: -40px;
+padding-left: 15px;
+}
+p.linkeden
+{
+  font-family: Sahitya;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 25px;
+margin-top: -40px;
+padding-left: 15px;
+}
+
+
+span
+{
+  color: #5FB6D9;
+
+}
+span:hover
+{
+  color: gray;
+
+}
+footer
+{
+  position: absolute;
+  width: 100%;
+  height: 292px;
+  background: #404040;
+  margin-top: 150px;
+  display: flex;
+  flex-wrap: wrap;
+
+
+
+}
+.footer1
+{
+  
+    flex:1 1 80px;
+    display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100px;
+  margin-top: 50px;
+  margin-left: 35px;
+
+}
+.menu1
+{
+  
+
+font-family: Sansation;
+font-size: 16px;
+font-style: normal;
+font-weight: 700;
+line-height: 10px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 8px;
+color: 8C8C8C;
+
+
+}
+.menu2
+{
+  font-family: Rufina;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: FFFFFF;
+  padding-bottom: 6px;
+}
+
+.menu3
+{
+  font-family: Sansation;
+font-size: 16px;
+font-style:italic;
+font-weight: 800;
+line-height: 12px;
+letter-spacing: 0em;
+text-align: left;
+padding-top: 20px;
+color: white;
+
+}
+.copyright
+{
+  background-color: 262626;
+  color:C8C8C8;
+  margin-top: 100px;
+  width: 100%;
+  padding: 10px;
+  padding-left: 120px;
+  font-family: Sansation;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 13px;
+  
+
+}
+.menu5
+{
+  
+
+  font-size: 5px;
+  font-style: normal;
+  font-weight: 100;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin-right: 20px;
+
+
+}
+.final
+{
+  width: 150px;
+  height: 59px;
+  background: #032030;
+  padding: 10px;
+  font-size: 12px;
+  color: #FFFFFF;
+  margin-top:25px;
+
+}
+.final:hover
+{
+  color: #5FB6D9;
+
+}
+
+
+
+
+
